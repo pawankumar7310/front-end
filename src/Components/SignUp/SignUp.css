@@ -1,0 +1,30 @@
+
+
+.form-container{
+    width: 100%; 
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 92vh;
+}
+.form-data{
+    width: 50%;
+    background: skyblue;
+    padding: 15px;
+    margin-top: 10px;   
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.inputForm{
+    display: flex;
+    flex-direction: column;
+}
+.form-button{
+    border: none;
+    color: black;
+    background: white;
+    padding: 5px 12px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

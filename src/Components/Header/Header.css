@@ -1,0 +1,23 @@
+
+
+.header-bar{
+    background-color:skyblue;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.header-bar .nav{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+  
+}
+
+.header-bar .nav .header-link{
+    text-decoration: none;
+    padding: 5px 10px;
+    color: white;
+ 
+}
